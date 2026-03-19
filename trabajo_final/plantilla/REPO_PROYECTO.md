@@ -1,10 +1,10 @@
 # Repo del Proyecto — Portfolio
 
-**Alumno:** [Tu Nombre Apellido]
+**Alumno:** Guillermo Castro
 
-**Nombre del proyecto:** [Ej: Cine Estrella]
+**Nombre del proyecto:** Escape Room
 
-**Repo:** [https://github.com/TU_USUARIO/nombre-del-proyecto](https://github.com/TU_USUARIO/nombre-del-proyecto)
+**Repo:** [https://github.com/gacastroo/Escape_Room](https://github.com/TU_USUARIO/nombre-del-proyecto)
 
 ---
 
@@ -12,12 +12,12 @@
 
 Marca lo que aplique a tu repo:
 
-- [ ] El repo es **publico**
-- [ ] El README tiene descripcion, tecnologias y como ejecutar
-- [ ] Swagger UI funciona en `/swagger-ui.html`
-- [ ] `docker compose up` levanta todo sin errores
+- [x] El repo es **publico**
+- [x] El README tiene descripcion, tecnologias y como ejecutar
+- [x] Swagger UI funciona en `/swagger-ui.html`
+- [x] `docker compose up` levanta todo sin errores
 - [ ] GitHub Actions tiene badge verde en el README
-- [ ] Hay capturas en `docs/screenshots/` incrustadas en el README
+- [] Hay capturas en `docs/screenshots/` incrustadas en el README
 
 ---
 
